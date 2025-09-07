@@ -1,6 +1,9 @@
 ## PetMatch - Trabalho de Conclusão de Curso (TCC) 
 
-![Logo do PetMatch](petMatch-Logo.png)
+<div align="center">
+  <img src="petMatch-Logo.png" alt="Logo da aplicação PetMatch" />
+</div>
+
 
 Bem-vindo(a) à página oficial do projeto **PetMatch**, desenvolvido como Trabalho de Conclusão de Curso de Informática da FIEC. Este repositório centraliza toda a documentação, código e recursos da nossa aplicação.
 
